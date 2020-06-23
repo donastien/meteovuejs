@@ -32,7 +32,7 @@ npm run serve
 
 ## Built With
 
-* [VueJS](https://vuejs.org/) - La librairie React pour le front.
+* [VueJS](https://vuejs.org/) - Le framework front-end VueJS.
 
 
 ## Authors
